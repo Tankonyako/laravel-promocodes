@@ -27,7 +27,7 @@
 
 Install this package via Composer:
 ```bash
-$ composer require zgabievi/promocodes
+$ composer require tankonyako/promocodes
 ```
 
 > If you are using Laravel 5.5 or later, then installation is done. Otherwise follow the next steps.
